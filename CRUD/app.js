@@ -1,1 +1,1 @@
-campeon = junior 
+campeon = junior
